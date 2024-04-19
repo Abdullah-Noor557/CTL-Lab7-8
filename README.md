@@ -3,3 +3,7 @@ Computer Tools Lab 7-8 Task in which we try to improve a machine learning model 
 
 # Model Chosen
 We are choosing the **LogisticRegression** model on the breast cancer dataset from **sklearn.datasets**
+
+
+# Results
+ - Base Model Accuracy : 97.66%
