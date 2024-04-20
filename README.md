@@ -2,7 +2,7 @@
 Computer Tools Lab 7-8 Task in which we try to improve a machine learning model by atleast 2%, this project mainly aims to get familiar with collaborative codebases, work with different branches etc.
 
 # Model Chosen
-We are choosing the **LogisticRegression** model on the breast cancer dataset from **sklearn.datasets**
+We are choosing the **LogisticRegression** model on the breast cancer dataset from **sklearn.datasets**, this model in our case had an accuracy of 97.66% after improvement our accuracy reached 99.42%.
 
 
 # Results
