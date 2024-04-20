@@ -6,7 +6,8 @@ We are choosing the **LogisticRegression** model on the breast cancer dataset fr
 
 
 # Results
- - Base Model Accuracy : 97.66%
-
+ - Base Model Accuracy :                         97.66%
+ - Improvement (Feature Scaling) Accuracy:       98.25%
+ - Improvement (Hyperparameter Tuning) Accuracy: 99.42%
 
 //todo model improvement
